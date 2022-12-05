@@ -1,6 +1,6 @@
 a=10 
-2) b=20 
-3) print("a > b is ",a>b) 
-4) print("a >= b is ",a>=b) 
-5) print("a < b is ",a<b) 
-6) print("a <= b is ",a<=b)
+b=20 
+ print("a > b is ",a>b) 
+ print("a >= b is ",a>=b) 
+ print("a < b is ",a<b) 
+ print("a <= b is ",a<=b)
